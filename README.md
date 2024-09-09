@@ -12,12 +12,8 @@
   react | axios | html | bootstrap | css | javascript 
   git | github | QA | Cypress | Azure-pipeline | metodologia agil | trello | scrun | kanban
 
-RoadMap:
+Loading 🏋️‍♀️:
  -React Native.
- -Testes Unitarios.
- -WebSocket.
- -Segurança da Aplicação.
- -Solid e Clean Code.
- -Design Pattern.
- -Docker.
- -Ci Cd.
+ -Expo.
+ -Mobile.
+ 
