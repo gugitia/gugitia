@@ -13,11 +13,11 @@
   git | github | QA | Cypress | Azure-pipeline | metodologia agil | trello | scrun | kanban
 
 RoadMap:
- -react native e derivados
- -testes unitarios
- -websocket
- -segurança da aplicação
- -solid e clean code
- -design pattern
- -docker
- -ci cd
+ -React Native.
+ -Testes Unitarios.
+ -WebSocket.
+ -Segurança da Aplicação.
+ -Solid e Clean Code.
+ -Design Pattern.
+ -Docker.
+ -Ci Cd.
