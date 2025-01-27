@@ -12,8 +12,7 @@
   react | axios | html | bootstrap | css | javascript 
   git | github | QA | Cypress | Azure-pipeline | metodologia agil | trello | scrun | kanban
 
-Loading 🏋️‍♀️:
- -React Native.
- -Expo.
- -Mobile.
- 
+### 📊 Estatísticas de Linguagens
+
+![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gugitia&layout=compact&langs_count=8&theme=radical)
+
